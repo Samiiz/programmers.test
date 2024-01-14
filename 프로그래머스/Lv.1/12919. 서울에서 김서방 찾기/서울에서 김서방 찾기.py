@@ -5,3 +5,5 @@ def solution(seoul):
         if seoul[i] == "Kim":
             answer = f"김서방은 {i}에 있다"
     return answer
+
+# index 랑 format 사용해보기
